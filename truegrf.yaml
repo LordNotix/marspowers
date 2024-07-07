@@ -1,4 +1,7 @@
 description: A new TrueGRF project based on FIRS Steeltown
+grfid: f173d551
 license: GPL-2.0
+name: marspowers
 type: industry
+url: https://github.com/LordNotix/marspowers
 version: 6
